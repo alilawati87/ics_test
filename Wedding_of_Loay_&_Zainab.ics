@@ -16,8 +16,7 @@ DTSTAMP:20230525T203000
 DTSTART;TZID=Asia/Muscat:20230525T203000
 DTEND;TZID=Asia/Muscat:20230525T233000
 SUMMARY:The Wedding of Loay & Zainab
-LOCATION:Al Salam Mosque
-Maps:https://maps.app.goo.gl/ByFnCcnW6CCcA9iT9?g_st=ic
+LOCATION:https://maps.app.goo.gl/ByFnCcnW6CCcA9iT9?g_st=ic
 DESCRIPTION:Wedding
 END:VEVENT
 END:VCALENDAR
